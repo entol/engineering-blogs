@@ -113,6 +113,7 @@
 * Eharmony http://www.eharmony.com/engineering/
 * Engine Yard https://blog.engineyard.com/
 * Envato http://webuild.envato.com/
+* entol http://entol.net/
 * Etsy https://codeascraft.com/
 * Eventbrite http://www.eventbrite.com/engineering/
 * Evernote https://blog.evernote.com/tech/
@@ -390,7 +391,6 @@
 * Andrew Ray http://blog.andrewray.me/
 * Andrey Akinshin http://aakinshin.net/en/blog/content/
 * Antirez http://antirez.com/latest/0
-* Ariejan de Vroom https://ariejan.net/
 * Ariya Hidayat https://ariya.io/
 * Armin Ronacher http://lucumr.pocoo.org/
 * Axel Rauschmayer http://www.2ality.com/
